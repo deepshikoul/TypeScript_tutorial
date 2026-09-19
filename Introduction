@@ -1,0 +1,21 @@
+What is TypeScript?
+- Programming language 
+- Superset of the JavaScript language; extends the JavaScript language
+- Browsers do not understand TS
+- Allows us to use Strict types
+- Supports modern features like arrows, let, const
+- Extra features like interfaces, tuples, and generics
+
+What you should know beforehand:
+- Understand JavaScript basics
+- What the DOM is
+- Classes
+
+Installation Details :
+- Download Node for Windows/ Mac  : https://nodejs.org/en/download
+- Go though installation code
+- Install Visual Studio Code : https://code.visualstudio.com/download
+
+
+
+
