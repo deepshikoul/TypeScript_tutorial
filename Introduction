@@ -12,9 +12,13 @@ What you should know beforehand:
 - Classes
 
 Installation Details :
-- Download Node for Windows/ Mac  : https://nodejs.org/en/download
-- Go though installation code
-- Install Visual Studio Code : https://code.visualstudio.com/download
+- Download Node.js for Windows/ Mac : https://nodejs.org/en/download
+   Go through the installation code
+- Install Visual Studio Code: https://code.visualstudio.com/download
+- Install the TypeScript compiler - Go to Command Prompt  and type the command below : 
+    npm install -g typescript
+  To check if TypeScript has been installed successfully, type the command below
+    tsc -v
 
 
 
